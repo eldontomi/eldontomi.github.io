@@ -47,7 +47,7 @@ body {
 }
 
 #content h1, #content h2, #content h3 {
-  font-family: "Myriad Pro", "Helvetica Neue", Helvetica;
+  font-family: "sans-serif", "monaco";
   margin: 0;
 }
 
